@@ -1,8 +1,9 @@
 html,
 body{
    font-family: sans-serif;
-   background-image: url('wallpaperflare.com_wallpaper.jpg');
-   height: fit-content;
+   background-image: url('world-1920x1200-sea-coast-wallpaper-preview.jpg');
+   background-repeat: no-repeat; 
+  background-size: cover; 
    margin: 0;
    padding: 0;
    box-sizing: border-box;
