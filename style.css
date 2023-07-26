@@ -1,8 +1,8 @@
 html,
 body{
    font-family: sans-serif;
-   background: linear-gradient( #271B29 0%, #97334F 50%, #BB4F5E 50%, #403C57 50%, #121D31 100%);
-
+   background-image: url('wallpaperflare.com_wallpaper.jpg');
+   height: fit-content;
    margin: 0;
    padding: 0;
    box-sizing: border-box;
