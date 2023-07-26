@@ -1,7 +1,8 @@
 html,
 body{
    font-family: sans-serif;
-   background-color:#f3c009;
+   background: linear-gradient( #271B29 0%, #97334F 50%, #BB4F5E 50%, #403C57 50%, #121D31 100%);
+
    margin: 0;
    padding: 0;
    box-sizing: border-box;
